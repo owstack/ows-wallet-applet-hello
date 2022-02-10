@@ -37,7 +37,7 @@
     "grunt-sass": "^3.0.2",
     "load-grunt-tasks": "^3.5.0",
     "lodash": "^4.17.4",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "shelljs": "^0.3.0",
     "trash-cli": "^1.4.0"
   },
